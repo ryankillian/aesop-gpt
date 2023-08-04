@@ -4,14 +4,10 @@
 
 <h1>Fables</h1>
 
-<ul>
+<div class="items">
 	{#each data.fableData as fable}
-		<li>
-			<h2>
-				<a href={fable.slug}>
-					{fable.metadata.title}
-				</a>
-			</h2>
-		</li>
+		<a href={fable.slug} role="button" class="contrast">
+			{fable.metadata.title}
+		</a>
 	{/each}
-</ul>
+</div>

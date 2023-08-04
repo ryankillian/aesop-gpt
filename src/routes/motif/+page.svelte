@@ -4,13 +4,11 @@
 </script>
 
 {#if motifs.length}
-	<ul>
+	<div class="items">
 		{#each motifs as motif}
-			<li>
-				<a href="/motif/{motif}">
-					{motif}
-				</a>
-			</li>
+			<a href="/motif/{motif}" role="button" class="secondary">
+				{motif}
+			</a>
 		{/each}
-	</ul>
+	</div>
 {/if}

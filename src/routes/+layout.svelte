@@ -1,18 +1,37 @@
 <script lang="ts">
+	import '@picocss/pico';
+	import './styles.css';
+
+	import { fade } from 'svelte/transition';
 	import Footer from '$lib/components/Footer.svelte';
 	import Header from '$lib/components/Header.svelte';
-	import '$lib/styles/style.css';
-	import { fade } from 'svelte/transition';
 
 	export let data;
 </script>
 
-<Header />
+<div class="header-content-footer">
+	<Header />
 
-{#key data.currentRoute}
-	<main in:fade={{ duration: 150, delay: 150 }} out:fade={{ duration: 150 }}>
-		<slot />
-	</main>
-{/key}
+	{#key data.currentRoute}
+		<main
+			class="expanding-content"
+			in:fade={{ duration: 150, delay: 150 }}
+			out:fade={{ duration: 150 }}
+		>
+			<slot />
+		</main>
+	{/key}
 
-<Footer />
+	<Footer />
+</div>
+
+<style>
+	.header-content-footer {
+		display: flex;
+		flex-direction: column;
+		min-height: 100vh;
+	}
+	.expanding-content {
+		flex: 1;
+	}
+</style>

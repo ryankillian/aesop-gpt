@@ -4,13 +4,11 @@
 </script>
 
 {#if characters.length}
-	<ul>
-		{#each data.characters as character}
-			<li>
-				<a href="/character/{character}">
-					{character}
-				</a>
-			</li>
+	<div class="items">
+		{#each characters as character}
+			<a href="/character/{character}" role="button" class="secondary">
+				{character}
+			</a>
 		{/each}
-	</ul>
+	</div>
 {/if}
