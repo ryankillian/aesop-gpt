@@ -13,4 +13,4 @@ package-lock.json
 .npmrc
 .prettierignore
 .prettierrc
-styles.css
+old-styles.css
