@@ -6,15 +6,15 @@ export const siteAuthor = 'Killian Ryan';
 
 export const navItems = [
 	{
+		title: 'Motifs',
+		route: '/motif'
+	},
+	{
 		title: 'Fables',
 		route: '/'
 	},
 	{
 		title: 'Characters',
 		route: '/character'
-	},
-	{
-		title: 'Motifs',
-		route: '/motif'
 	}
 ];

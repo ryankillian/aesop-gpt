@@ -1,8 +1,9 @@
 <script lang="ts">
+	import Info from './Info.svelte';
 	import NavItems from './NavItems.svelte';
 </script>
 
-<header>
+<footer>
+	<Info />
 	<NavItems />
-	<NavItems />
-</header>
+</footer>

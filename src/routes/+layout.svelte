@@ -34,4 +34,11 @@
 	.expanding-content {
 		flex: 1;
 	}
+
+	@media screen and (min-width: 768px) {
+		.header-content-footer {
+			max-width: 40%;
+			margin: auto;
+		}
+	}
 </style>

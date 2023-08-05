@@ -1,17 +1,17 @@
 <script lang="ts">
 	export let data;
+
+	let { fablesByMotif } = data;
 </script>
 
-<h1>{data.motif}</h1>
+<h2>{data.motif}</h2>
 
-<ul>
-	{#each data.fablesByMotif as fable}
-		<li>
-			<h2>
-				<a href={`/${fable.slug}`}>
-					{fable.metadata.title}
-				</a>
-			</h2>
-		</li>
-	{/each}
-</ul>
+{#if fablesByMotif.length}
+	<div class="items">
+		{#each fablesByMotif as fable}
+			<a href="/{fable.slug}" role="button" class="contrast outline">
+				{fable.metadata.title}
+			</a>
+		{/each}
+	</div>
+{/if}

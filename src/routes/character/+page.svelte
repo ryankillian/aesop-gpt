@@ -6,7 +6,7 @@
 {#if characters.length}
 	<div class="items">
 		{#each characters as character}
-			<a href="/character/{character}" role="button" class="secondary">
+			<a href="/character/{character}" role="button" class="contrast outline">
 				{character}
 			</a>
 		{/each}

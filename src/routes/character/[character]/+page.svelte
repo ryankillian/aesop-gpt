@@ -2,16 +2,14 @@
 	export let data;
 </script>
 
-<h1>{data.character}</h1>
+<h2>{data.character}</h2>
 
-<ul>
-	{#each data.fablesByCharacter as fable}
-		<li>
-			<h2>
-				<a href={`/${fable.slug}`}>
-					{fable.metadata.title}
-				</a>
-			</h2>
-		</li>
-	{/each}
-</ul>
+{#if data.fablesByCharacter.length}
+	<div class="items">
+		{#each data.fablesByCharacter as fable}
+			<a href="/{fable.slug}" role="button" class="contrast outline">
+				{fable.metadata.title}
+			</a>
+		{/each}
+	</div>
+{/if}

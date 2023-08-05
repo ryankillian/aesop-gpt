@@ -5,7 +5,7 @@ export const GET = async () => {
 	const fableData = await getFablesAndSlugs();
 
 	const sortedFables = fableData.sort((a, b) => {
-		return b.metadata.title.localeCompare(a.metadata.title);
+		return a.metadata.title.localeCompare(b.metadata.title);
 	});
 
 	return json(sortedFables);

@@ -14,3 +14,5 @@ package-lock.json
 .prettierignore
 .prettierrc
 old-styles.css
+gpt-prompt.txt
+gpt.txt
