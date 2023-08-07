@@ -18,6 +18,28 @@ export const getFablesAndSlugs = async () => {
 	return fableData;
 };
 
+export const getMotifsAndSlugs = async () => {
+	const rawFables = import.meta.glob('$lib/fables/*.md');
+
+	let slugMotifData: { slug: string; motif: string }[] = [];
+
+	await Promise.all(
+		Object.entries(rawFables).map(async ([path, resolver]) => {
+			const { metadata } = (await resolver()) as Fable;
+			const slug = path.split('/').pop()!.slice(0, -3);
+
+			metadata.motifs.forEach((motif) => {
+				slugMotifData.push({
+					slug,
+					motif
+				});
+			});
+		})
+	);
+
+	return slugMotifData;
+};
+
 export const getMotifs = async () => {
 	const rawFables = import.meta.glob('$lib/fables/*.md');
 	const motifLists = await Promise.all(
