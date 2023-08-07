@@ -38,7 +38,7 @@ A COCK was once strutting up and down the farmyard among the hens when suddenly 
 
 3. **Opportunity Cost**: The rooster's preference for a single barley-corn over a peck of pearls could be interpreted as understanding the concept of opportunity cost. He knows that choosing the pearl, which he cannot consume, comes at the cost of missing out on food that sustains him. This introduces an economic concept subtly within the fable.
 
-4. **Intrinsic versus Extrinsic Value**: The fable subtly touches upon the notion of intrinsic versus extrinsic value. Pearls, which are considered precious and valuable by humans, hold extrinsic value that is based on societal agreement. On the other hand, barley, which can be used for sustenance, holds intrinsic value for the cock. This theme could suggest that individuals (or societies) should find a balance between valuing items for their intrinsic and extrinsic worth.
+4. **Intrinsic vs Extrinsic Value**: The fable subtly touches upon the notion of intrinsic vs extrinsic value. Pearls, which are considered precious and valuable by humans, hold extrinsic value that is based on societal agreement. On the other hand, barley, which can be used for sustenance, holds intrinsic value for the cock. This theme could suggest that individuals (or societies) should find a balance between valuing items for their intrinsic and extrinsic worth.
 
 5. **The Underlying Theme - "Precious Things are for Those that Can Prize Them"**: This line encapsulates the primary lesson from the fable. What one considers valuable or precious depends heavily on their perspective, needs, and desires.
 

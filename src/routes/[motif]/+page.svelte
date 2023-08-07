@@ -9,7 +9,7 @@
 {#if fablesByMotif.length}
 	<div class="items">
 		{#each fablesByMotif as fable}
-			<a href="/{fable.slug}" role="button" class="contrast outline">
+			<a href="/fable/{fable.slug}" role="button" class="contrast outline">
 				{fable.metadata.title}
 			</a>
 		{/each}

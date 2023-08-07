@@ -11,7 +11,7 @@ motifs:
   - 'Misperception'
   - 'Opportunity Cost'
   - 'Overreach and Overconfidence'
-  - 'Reality versus Illusion'
+  - 'Reality vs Illusion'
   - 'Risk Assessment'
   - 'Self-Deception'
   - 'Transient Nature of Material Possessions'
@@ -26,7 +26,7 @@ It happened that a Dog had got a piece of meat and was carrying it home in his m
 
 1. **Greed Can Lead to Loss**: The most apparent lesson from this fable is the negative consequence of greed. The dog's desire for more meat, despite already having some, leads to his loss. This illustrates the common proverb, "Greed is the root of all evil," and reminds us to be content with what we have.
 
-2. **Reality Versus Illusion**: The dog mistakes his shadow for another dog, representing the pitfalls of confusing illusion with reality. This warns against making decisions based on false perceptions or appearances.
+2. **Reality vs Illusion**: The dog mistakes his shadow for another dog, representing the pitfalls of confusing illusion with reality. This warns against making decisions based on false perceptions or appearances.
 
 3. **Unrealistic Expectations**: The dog's decision to snap at the shadow in the water to get the meat represents the danger of unrealistic expectations. We should always ensure our expectations are grounded in reality to avoid unnecessary disappointments.
 

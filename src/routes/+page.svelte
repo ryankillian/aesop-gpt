@@ -1,13 +1,20 @@
 <script lang="ts">
 	export let data;
+	let { motifs } = data;
 </script>
 
-<h1>Fables</h1>
+<h1>Motifs</h1>
 
-<div class="items">
-	{#each data.fableData as fable}
-		<a href={fable.slug} role="button" class="contrast outline">
-			{fable.metadata.title}
-		</a>
-	{/each}
-</div>
+{#if motifs.length}
+	<div class="items">
+		{#each motifs as motif}
+			<a
+				href={`/${motif.replace(/\s+/g, '_').toLowerCase()}`}
+				role="button"
+				class="contrast outline"
+			>
+				{motif}
+			</a>
+		{/each}
+	</div>
+{/if}

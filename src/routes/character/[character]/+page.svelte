@@ -7,7 +7,7 @@
 {#if data.fablesByCharacter.length}
 	<div class="items">
 		{#each data.fablesByCharacter as fable}
-			<a href="/{fable.slug}" role="button" class="contrast outline">
+			<a href="/fable/{fable.slug}" role="button" class="contrast outline">
 				{fable.metadata.title}
 			</a>
 		{/each}

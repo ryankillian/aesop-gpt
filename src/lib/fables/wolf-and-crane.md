@@ -11,7 +11,7 @@ motifs:
     'Gratitude',
     'Immediate Gratification',
     'Ingratitude',
-    'Need versus Greed',
+    'Need vs Greed',
     'Power Dynamics',
     'Risk-Taking',
     'Ingratitude after Relief',
@@ -45,6 +45,6 @@ Hidden Insights:
 
 1. **Risk and Reward**: The crane's experience can be seen as a commentary on the uncertainties involved in risk-taking. While the crane was heroic and was promised a reward, it ended up getting nothing. This can be a cautionary note about ensuring guarantees before taking a risk, especially when dealing with unreliable parties.
 
-2. **Need Versus Greed**: When the wolf was in need, he was ready to promise anything. But when his need was satisfied, his greed took over. This suggests a dichotomy between need and greed that can lead individuals to act differently under different circumstances.
+2. **Need vs Greed**: When the wolf was in need, he was ready to promise anything. But when his need was satisfied, his greed took over. This suggests a dichotomy between need and greed that can lead individuals to act differently under different circumstances.
 
 3. **Disparity in Power Dynamics**: This tale also provides a lesson about power dynamics and how they can be misused. The wolf, being physically superior, is able to exploit the crane and deny it its due reward. This points to a societal issue where those in power sometimes exploit those who are weaker or more vulnerable.

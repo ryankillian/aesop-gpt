@@ -25,7 +25,7 @@ ONE day the Countrymen noticed that the Mountains were in labour; smoke came out
 
 ### Interpretations and Insights:
 
-"The Mountains in Labour" is a fable that explores the themes of expectation versus reality, fear and anticipation, and the incongruity between appearances and outcomes.
+"The Mountains in Labour" is a fable that explores the themes of expectation vs reality, fear and anticipation, and the incongruity between appearances and outcomes.
 
 1. **Expectation vs Reality**: The primary lesson of this fable is that expectations do not always match reality. Despite the grand display of the mountains in labor, the outcome was a tiny mouse, suggesting that significant hype or anticipation can often lead to underwhelming results.
 

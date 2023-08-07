@@ -1,7 +1,7 @@
 <script lang="ts">
-	import NavItems from './NavItems.svelte';
+	import NavBar from './NavBar.svelte';
 </script>
 
 <header>
-	<NavItems />
+	<NavBar />
 </header>

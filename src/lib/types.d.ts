@@ -16,3 +16,8 @@ export interface FableData {
 	metadata: Metadata;
 	slug: string;
 }
+
+export interface NavItem {
+	title: string;
+	route: siteTitle;
+}

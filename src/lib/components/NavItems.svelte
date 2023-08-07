@@ -1,5 +1,7 @@
 <script lang="ts">
-	import { navItems } from '$lib/config';
+	import type { NavItem } from '$lib/types';
+
+	export let navItems: NavItem[];
 </script>
 
 <nav>

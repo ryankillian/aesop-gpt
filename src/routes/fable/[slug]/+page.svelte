@@ -21,7 +21,7 @@
 		<p>
 			Characters:
 			{#each metadata.characters as character, i (character)}
-				<a href={`/character/${character.replace(/\s+/g, '-').toLowerCase()}`}>{character}</a>{i <
+				<a href={`/character/${character.replace(/\s+/g, '_').toLowerCase()}`}>{character}</a>{i <
 				metadata.characters.length - 1
 					? ', '
 					: ''}
@@ -31,7 +31,7 @@
 		<p>
 			Motifs:
 			{#each metadata.motifs as motif, i (motif)}
-				<a href={`/motif/${motif.replace(/\s+/g, '-').toLowerCase()}`}>{motif}</a>{i <
+				<a href={`/${motif.replace(/\s+/g, '_').toLowerCase()}`}>{motif}</a>{i <
 				metadata.motifs.length - 1
 					? ', '
 					: ''}

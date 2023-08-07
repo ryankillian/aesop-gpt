@@ -1,9 +1,9 @@
 <script lang="ts">
-	import Info from './Info.svelte';
-	import NavItems from './NavItems.svelte';
+	import ContactBar from './ContactBar.svelte';
+	import NavBar from './NavBar.svelte';
 </script>
 
 <footer>
-	<Info />
-	<NavItems />
+	<ContactBar />
+	<NavBar />
 </footer>

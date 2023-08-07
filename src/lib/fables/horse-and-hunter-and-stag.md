@@ -35,7 +35,7 @@ A QUARREL had arisen between the Horse and the Stag, so the Horse came to a hunt
 
 3. **Power Dynamics**: The hunter, once having control over the horse, decides to maintain this power. This illustrates how those in power may be reluctant to relinquish their control once it's obtained, even when the initial justification for that power is no longer applicable.
 
-4. **Freedom vs. Dependence**: Initially, the horse is free but seeks the hunter's help to defeat the stag, and in doing so, sacrifices his freedom. This highlights the theme of freedom versus dependence, reminding us of the importance of self-reliance and the potential dangers of depending too much on others to achieve our goals.
+4. **Freedom vs. Dependence**: Initially, the horse is free but seeks the hunter's help to defeat the stag, and in doing so, sacrifices his freedom. This highlights the theme of freedom vs dependence, reminding us of the importance of self-reliance and the potential dangers of depending too much on others to achieve our goals.
 
 5. **Dealings and Contracts**: On a broader level, this fable can be a cautionary tale about entering into contracts or agreements without fully understanding their terms and consequences.
 

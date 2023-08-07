@@ -9,7 +9,7 @@ motifs:
     'Understand What You Ask For',
     'Irresponsible Leadership',
     'Unpredictability of Change',
-    'Democracy versus Tyranny',
+    'Democracy vs Tyranny',
     'Misuse of Power',
     'Beware of Unintended Consequences',
     'Hasty Decisions',
@@ -39,7 +39,7 @@ THE FROGS were living as happy as could be in a marshy swamp that just suited th
 
 3. **Unpredictability of Change**: The change that the frogs desire (a new king) does not bring the improvement they hope for, but rather, it brings destruction. This teaches us that change can be unpredictable and not always beneficial.
 
-4. **Democracy versus Tyranny**: On a deeper level, this story illustrates the contrast between democratic self-rule (represented by the frogs' initial state) and tyranny (represented by the stork). The frogs, initially in a state of autonomy, opted for a form of monarchy without understanding the risk of ending up with a tyrant.
+4. **Democracy vs Tyranny**: On a deeper level, this story illustrates the contrast between democratic self-rule (represented by the frogs' initial state) and tyranny (represented by the stork). The frogs, initially in a state of autonomy, opted for a form of monarchy without understanding the risk of ending up with a tyrant.
 
 5. **Misuse of Power**: This story underlines the perils of power misuse. When the frogs asked for a 'real' king, they received a stork, a figure that exploited its power to harm them. This warns about the potential for those in positions of power to abuse it, especially if unchecked.
 
@@ -47,7 +47,7 @@ THE FROGS were living as happy as could be in a marshy swamp that just suited th
 
 7. **Hasty Decisions**: The story points out the dangers of making hasty decisions. The frogs hastily asked for a king without considering the potential outcomes. The adverse result serves as a lesson in the importance of deliberation before making significant decisions.
 
-Additional Interpretations and Insights:
+### Additional Interpretations and Insights:
 
 1. **Appreciation of Current State**: The frogs didn't value their peaceful and contented life in the swamp until it was too late. This fable could be seen as highlighting the importance of appreciating one's current circumstances instead of seeking change for the sake of change.
 
