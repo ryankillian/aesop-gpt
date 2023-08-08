@@ -1,11 +1,8 @@
 import type { Fable } from '$lib/types.js';
 
 export const load = async () => {
-	let motifs = await getMotifs();
-	motifs.sort();
-
 	return {
-		motifs
+		motifs: await getMotifs()
 	};
 };
 
@@ -28,6 +25,8 @@ const getMotifs = async () => {
 	});
 
 	let motifs = Array.from(motifsSet);
+
+	motifs.sort();
 
 	return motifs;
 };

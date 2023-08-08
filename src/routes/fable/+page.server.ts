@@ -1,17 +1,8 @@
-import type { Fable, FableData } from '$lib/types';
+import type { Fable } from '$lib/types';
 
-export const load = async ({ params }) => {
-	const motif = params.motif.replace(/_/g, ' ');
-
-	const fableData: FableData[] = await getFablesAndSlugs();
-
-	const fablesByMotif = fableData.filter((fable) =>
-		fable.metadata.motifs.map((c) => c.toLowerCase()).includes(motif.toLowerCase())
-	);
-
+export const load = async () => {
 	return {
-		motif,
-		fablesByMotif
+		fableData: getFablesAndSlugs()
 	};
 };
 
