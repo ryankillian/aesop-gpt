@@ -26,8 +26,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@picocss/pico": "^1.5.10",
-		"rehype-autolink-headings": "^6.1.1",
-		"rehype-slug": "^5.1.0"
+		"@picocss/pico": "^1.5.10"
 	}
 }
