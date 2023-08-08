@@ -7,8 +7,7 @@ const config = {
 	preprocess: [
 		vitePreprocess(),
 		mdsvex({
-			extensions: ['.md'],
-			rehypePlugins: [rehypeSlug, rehypeAutolinkHeadings]
+			extensions: ['.md']
 		})
 	],
 	extensions: ['.svelte', '.md'],
