@@ -1,6 +1,5 @@
-import type { Fable, FableData } from '$lib/types';
-
-// export const prerender = false;
+import type { FableData } from '$lib/types';
+import { getFablesAndSlugs } from '$lib/utils/index.js';
 
 export const load = async ({ params }) => {
 	const character = params.character.replace(/_/g, ' ');
@@ -14,22 +13,4 @@ export const load = async ({ params }) => {
 		character,
 		fablesByCharacter
 	};
-};
-
-const getFablesAndSlugs = async () => {
-	const rawFables = import.meta.glob('$lib/fables/*.md');
-
-	const fableData = await Promise.all(
-		Object.entries(rawFables).map(async ([path, resolver]) => {
-			const { metadata } = (await resolver()) as Fable;
-			const slug = path.split('/').pop()!.slice(0, -3);
-
-			return {
-				slug,
-				metadata
-			};
-		})
-	);
-
-	return fableData;
 };
