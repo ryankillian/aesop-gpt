@@ -1,5 +1,7 @@
 import type { Fable, FableData } from '$lib/types';
 
+export const prerender = false;
+
 export const load = async ({ params }) => {
 	const motif = params.motif.replace(/_/g, ' ');
 
