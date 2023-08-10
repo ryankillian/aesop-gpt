@@ -12,6 +12,13 @@ motifs:
     'Strength Beyond Physicality',
     'Manipulation of Perception'
   ]
+insights:
+  [
+    'Perspective',
+    'Perception',
+    'Adaptation',
+    'Acceptance'
+  ]
 ---
 
 A MAN and a Lion were discussing the relative strength of men and lions in general. The Man contended that he and his fellows were stronger than lions by reason of their greater intelligence. “Come now with me,” he cried, “and I will soon prove that I am right.” So he took him into the public gardens and showed him a statue of Hercules overcoming the Lion and tearing his mouth in two.

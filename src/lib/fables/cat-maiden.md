@@ -13,6 +13,14 @@ motifs:
     'Human vs. Animal Instincts',
     'Impersonation vs. Transformation'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Behavior',
+    'Adaptation',
+    'Desire'
+  ]
 ---
 
 THE GODS were once disputing whether it was possible for a living being to change its nature. Jupiter said “Yes,” but Venus said “No.” So, to try the question, Jupiter turned a Cat into a Maiden, and gave her to a young man for a wife. The wedding was duly performed and the young couple sat down to the wedding feast. “See,” said Jupiter, to Venus, “how becomingly she behaves. Who could tell that yesterday she was but a Cat? Surely her nature is changed?”

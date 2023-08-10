@@ -12,6 +12,14 @@ motifs:
     'Perception of Freedom',
     'Cost of Living'
   ]
+insights:
+  [
+    'Perspective',
+    'Cost',
+    'Revenge',
+    'Perception',
+    'Adaptation'
+  ]
 ---
 
 A GAUNT Wolf was almost dead with hunger when he happened to meet a House-dog who was passing by. “Ah, Cousin,” said the Dog. “I knew how it would be; your irregular life will soon be the ruin of you. Why do you not work steadily as I do, and get your food regularly given to you?”

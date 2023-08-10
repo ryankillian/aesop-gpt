@@ -15,6 +15,18 @@ motifs:
     'Active vs Passive Faith',
     'Human-Deity Relationship'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Perspective',
+    'Acceptance',
+    'Bravery',
+    'Cost',
+    'Change',
+    'Misfortune',
+    'Virtue',
+    'Adaptation'
+  ]
 ---
 
 A WAGGONER was once driving a heavy load along a very muddy way. At last he came to a part of the road where the wheels sank half-way into the mire, and the more the horses pulled, the deeper sank the wheels. So the Waggoner threw down his whip, and knelt down and prayed to Hercules the Strong. “O Hercules, help me in this my hour of distress,” quoth he. But Hercules appeared to him, and said:

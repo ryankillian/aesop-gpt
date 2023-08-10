@@ -15,6 +15,17 @@ motifs:
     'Delayed Gratification',
     'Survival Instinct'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Perspective',
+    'Gratification',
+    'Fate',
+    'Misfortune',
+    'Wisdom',
+    'Desire'
+  ]
 ---
 
 IT happened that a Fisher, after fishing all day, caught only a little fish. “Pray, let me go, master,” said the Fish. “I am much too small for your eating just now. If you put me back into the river I shall soon grow, then you can make a fine meal off me.”

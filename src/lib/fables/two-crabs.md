@@ -14,6 +14,17 @@ motifs:
     'Changing Others',
     'Role Modeling'
   ]
+insights:
+  [
+    'Differences',
+    'Perspective',
+    'Power',
+    'Acceptance',
+    'Bravery',
+    'Reality',
+    'Behavior',
+    'Adaptation'
+  ]
 ---
 
 ONE fine day two Crabs came out from their home to take a stroll on the sand. “Child,” said the mother, “you are walking very ungracefully. You should accustom yourself to walking straight forward without twisting from side to side.”

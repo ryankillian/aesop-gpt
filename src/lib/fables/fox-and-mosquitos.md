@@ -13,6 +13,16 @@ motifs:
     'Relativism of Suffering',
     'Significance of Experience in Decision-Making'
   ]
+insights:
+  [
+    'Perspective',
+    'Acceptance',
+    'Reality',
+    'Fate',
+    'Decision-making',
+    'Virtue',
+    'Consequences'
+  ]
 ---
 
 A FOX after crossing a river got its tail entangled in a bush, and could not move. A number of Mosquitoes seeing its plight settled upon it and enjoyed a good meal undisturbed by its tail. A hedgehog strolling by took pity upon the Fox and went up to him: “You are in a bad way, neighbour,” said the hedgehog, “shall I relieve you by driving off those Mosquitoes who are sucking your blood?”

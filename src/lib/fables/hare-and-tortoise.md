@@ -13,6 +13,17 @@ motifs:
     'Effort and Reward',
     'Pride before a Fall'
   ]
+insights:
+  [
+    'Acceptance',
+    'Fate',
+    'Misfortune',
+    'Revenge',
+    'Virtue',
+    'Misjudgment',
+    'Consequences',
+    'Desire'
+  ]
 ---
 
 THE HARE was once boasting of his speed before the other animals. “I have never yet been beaten,” said he, “when I put forth my full speed. I challenge any one here to race with me.”

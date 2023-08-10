@@ -14,6 +14,16 @@ motifs:
     'Unintended Consequences',
     'Resilience and Vulnerability'
   ]
+insights:
+  [
+    'Acceptance',
+    'Resilience',
+    'Cost',
+    'Wisdom',
+    'Misfortune',
+    'Virtue',
+    'Misjudgment'
+  ]
 ---
 
 TWO Pots had been left on the bank of a river, one of brass, and one of earthenware. When the tide rose they both floated off down the stream. Now the earthenware pot tried its best to keep aloof from the brass one, which cried out: “For nothing, friend, I will not strike you.”

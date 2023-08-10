@@ -16,6 +16,17 @@ motifs:
     'Mutual Understanding',
     'Courtesy and Etiquette'
   ]
+insights:
+  [
+    'Reciprocity',
+    'Differences',
+    'Irony',
+    'Deception',
+    'Acceptance',
+    'Bravery',
+    'Reality',
+    'Wisdom'
+  ]
 ---
 
 AT one time the Fox and the Stork were on visiting terms and seemed very good friends. So the Fox invited the Stork to dinner, and for a joke put nothing before her but some soup in a very shallow dish. This the Fox could easily lap up, but the Stork could only wet the end of her long bill in it, and left the meal as hungry as when she began. “I am sorry, said the Fox, “the soup is not to your liking.”

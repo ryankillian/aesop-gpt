@@ -13,6 +13,15 @@ motifs:
     'Revenge and Its Pitfalls',
     'Loss of Autonomy'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Power',
+    'Misfortune',
+    'Consequences',
+    'Desire'
+  ]
 ---
 
 A QUARREL had arisen between the Horse and the Stag, so the Horse came to a hunter to ask his help to take revenge on the Stag. The Hunter agreed, but said: “If you desire to conquer the Stag, you must permit me to place this piece of iron between your jaws, so that I may guide you with these reins, and allow this saddle to be placed upon your back so that I may keep steady upon you as we follow after the enemy.” The Horse agreed to the conditions, and the Hunter soon saddled and bridled him. Then with the aid of the Hunter the Horse soon overcame the Stag, and said to the Hunter: “Now, get off, and remove those things from my mouth and back.”

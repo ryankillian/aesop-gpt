@@ -11,6 +11,15 @@ motifs:
     'Change of Perspective',
     'Hidden Value'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Perspective',
+    'Reality',
+    'Behavior',
+    'Misfortune',
+    'Desire'
+  ]
 ---
 
 IN the old days men used to worship stocks and stones and idols, and prayed to them to give them luck. It happened that a Man had often prayed to a wooden idol he had received from his father, but his luck never seemed to change. He prayed and he prayed, but still he remained as unlucky as ever. One day in the greatest rage he went to the Wooden God, and with one blow swept it down from its pedestal. The idol broke in two, and what did he see? An immense number of coins flying all over the place.

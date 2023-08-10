@@ -14,6 +14,14 @@ motifs:
     'Desire vs Need',
     'The Power of Persuasion'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Deception',
+    'Acceptance',
+    'Reality',
+    'Revenge'
+  ]
 ---
 
 A LABOURER lay listening to a Nightingale’s song throughout the summer night. So pleased was he with it that the next night he set a trap for it and captured it. “Now that I have caught thee,” he cried, “though shalt always sing to me.”

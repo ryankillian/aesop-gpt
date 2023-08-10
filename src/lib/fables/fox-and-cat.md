@@ -12,6 +12,15 @@ motifs:
     'Analysis Paralysis',
     'The Danger of Theoretical Knowledge without Practical Application'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Acceptance',
+    'Change',
+    'Behavior',
+    'Misjudgment'
+  ]
 ---
 
 A FOX was boasting to a Cat of its clever devices for escaping its enemies. “I have a whole bag of tricks,” he said, “which contains a hundred ways of escaping my enemies.”

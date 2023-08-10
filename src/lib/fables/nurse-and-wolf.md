@@ -14,6 +14,16 @@ motifs:
     'Unintended Power',
     'Children and Fear'
   ]
+insights:
+  [
+    'Irony',
+    'Cost',
+    'Reality',
+    'Adaptation',
+    'Misfortune',
+    'Misjudgment',
+    'Desire'
+  ]
 ---
 
 “BE quiet now,” said an old Nurse to a child sitting on her lap. “If you make that noise again I will throw you to the Wolf.”

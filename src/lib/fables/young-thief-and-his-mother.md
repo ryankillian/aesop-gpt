@@ -15,6 +15,16 @@ motifs:
     'The Cycle of Negativity',
     'Shifting Moral Responsibility'
   ]
+insights:
+  [
+    'Differences',
+    'Reality',
+    'Behavior',
+    'Adaptation',
+    'Change',
+    'Consequences',
+    'Desire'
+  ]
 ---
 
 A YOUNG Man had been caught in a daring act of theft and had been condemned to be executed for it. He expressed his desire to see his Mother, and to speak with her before he was led to execution, and of course this was granted. When his Mother came to him he said: “I want to whisper to you,” and when she brought her ear near him, he nearly bit it off. All the bystanders were horrified, and asked him what he could mean by such brutal and inhuman conduct. “It is to punish her,” he said. “When I was young I began with stealing little things, and brought them home to Mother. Instead of rebuking and punishing me, she laughed and said: ‘It will not be noticed.’ It is because of her that I am here today.”

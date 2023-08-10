@@ -14,6 +14,17 @@ motifs:
     'The Role of Information',
     'Adaptation'
   ]
+insights:
+  [
+    'Deception',
+    'Irony',
+    'Acceptance',
+    'Cost',
+    'Vigilance',
+    'Behavior',
+    'Perception',
+    'Desire'
+  ]
 ---
 
 ONE moonlight night a Fox was prowling about a farmer’s hencoop, and saw a Cock roosting high up beyond his reach. “Good news, good news!” he cried.

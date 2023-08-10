@@ -14,6 +14,15 @@ motifs:
     'Understanding beyond Face Value',
     'Appreciation of Practical Wisdom'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Acceptance',
+    'Wisdom',
+    'Perception',
+    'Adaptation'
+  ]
 ---
 
 A MAN had lost his way in a wood one bitter winter’s night. As he was roaming about, a Satyr came up to him, and finding that he had lost his way, promised to give him a lodging for the night, and guide him out of the forest in the morning. As he went along to the Satyr’s cell, the Man raised both his hands to his mouth and kept on blowing at them. “What do you do that for?” said the Satyr.

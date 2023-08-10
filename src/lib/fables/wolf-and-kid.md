@@ -16,6 +16,18 @@ motifs:
     'Self-Righteousness',
     'Overconfidence'
   ]
+insights:
+  [
+    'Power',
+    'Bravery',
+    'Virtue',
+    'Reality',
+    'Behavior',
+    'Revenge',
+    'Wisdom',
+    'Perception',
+    'Misjudgment'
+  ]
 ---
 
 A KID was perched up on the top of a house, and looking down saw a Wolf passing under him. Immediately he began to revile and attack his enemy. “Murderer and thief,” he cried, “what do you here near honest folks’ houses? How dare you make an appearance where your vile deeds are known?”

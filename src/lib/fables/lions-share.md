@@ -19,6 +19,17 @@ motifs:
     'Tyranny',
     'Unjust Distribution of Rewards'
   ]
+insights:
+  [
+    'Differences',
+    'Power',
+    'Cost',
+    'Change',
+    'Adaptation',
+    'Fate',
+    'Misfortune',
+    'Desire'
+  ]
 ---
 
 THE LION went once a-hunting along with the Fox, the Jackal, and the Wolf. They hunted and they hunted till at last they surprised a Stag, and soon took its life. Then came the question how the spoil should be divided. “Quarter me this Stag,” roared the Lion; so the other animals skinned it and cut it into four parts. Then the Lion took his stand in front of the carcass and pronounced judgment: “The first quarter is for me in my capacity as King of Beasts; the second is mine as arbiter; another share comes to me for my part in the chase; and as for the fourth quarter, well, as for that, I should like to see which of you will dare to lay a paw upon it.”

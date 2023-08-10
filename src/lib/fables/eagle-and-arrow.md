@@ -13,6 +13,15 @@ motifs:
     'Reflection on Power',
     'Symbolism of the Arrow'
   ]
+insights:
+  [
+    'Acceptance',
+    'Bravery',
+    'Reality',
+    'Virtue',
+    'Misjudgment',
+    'Adaptation'
+  ]
 ---
 
 AN EAGLE was soaring through the air when suddenly it heard the whizz of an Arrow, and felt itself wounded to death. Slowly it fluttered down to the earth, with its life-blood pouring out of it. Looking down upon the Arrow with which it had been pierced, it found that the haft of the Arrow had been feathered with one of its own plumes. “Alas!” it cried, as it died,

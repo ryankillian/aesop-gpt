@@ -1,21 +1,36 @@
 ---
 title: 'The Dog and the Shadow'
-characters:
-  - 'Dog'
+characters: ['Dog']
 moral: 'Beware lest you lose the substance by grasping at the shadow.'
 motifs:
-  - 'Consequences of Impulsivity'
-  - 'Greed'
-  - 'Greed Leading to Loss'
-  - 'Illusion of More'
-  - 'Misperception'
-  - 'Opportunity Cost'
-  - 'Overreach and Overconfidence'
-  - 'Reality vs Illusion'
-  - 'Risk Assessment'
-  - 'Self-Deception'
-  - 'Transient Nature of Material Possessions'
-  - 'Unrealistic Expectations'
+  [
+    'Consequences of Impulsivity',
+    'Greed',
+    'Greed Leading to Loss',
+    'Illusion of More',
+    'Misperception',
+    'Opportunity Cost',
+    'Overreach and Overconfidence',
+    'Reality vs Illusion',
+    'Risk Assessment',
+    'Self-Deception',
+    'Transient Nature of Material Possessions',
+    'Unrealistic Expectations'
+  ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Perspective',
+    'Irony',
+    'Acceptance',
+    'Virtue',
+    'Reality',
+    'Revenge',
+    'Misfortune',
+    'Perception',
+    'Misjudgment'
+  ]
 ---
 
 It happened that a Dog had got a piece of meat and was carrying it home in his mouth to eat it in peace. Now on his way home he had to cross a plank lying across a running brook. As he crossed, he looked down and saw his own shadow reflected in the water beneath. Thinking it was another dog with another piece of meat, he made up his mind to have that also. So he made a snap at the shadow in the water, but as he opened his mouth the piece of meat fell out, dropped into the water and was never seen more.

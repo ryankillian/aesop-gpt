@@ -12,6 +12,14 @@ motifs:
     'Sensory Triggers',
     'Inevitability of Change'
   ]
+insights:
+  [
+    'Differences',
+    'Acceptance',
+    'Change',
+    'Behavior',
+    'Desire'
+  ]
 ---
 
 YOU must know that sometimes old women like a glass of wine. One of this sort once found a Wine-Jar lying in the road, and eagerly went up to it hoping to find it full. But when she took it up she found that all the wine had been drunk out of it. Still she took a long sniff at the mouth of the Jar. “Ah,” she cried,

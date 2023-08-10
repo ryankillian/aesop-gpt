@@ -13,6 +13,15 @@ motifs:
     'Flexibility over Rigidity',
     'Survival Strategies'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Resilience',
+    'Behavior',
+    'Fate',
+    'Wisdom'
+  ]
 ---
 
 “WELL, little one,” said a Tree to a Reed that was growing at its foot, “why do you not plant your feet deeply in the ground, and raise your head boldly in the air as I do?”

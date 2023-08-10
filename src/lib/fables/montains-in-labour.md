@@ -17,6 +17,15 @@ motifs:
     'Preparation and Vigilance',
     'Value of Patience'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Perspective',
+    'Vigilance',
+    'Misjudgment',
+    'Desire'
+  ]
 ---
 
 ONE day the Countrymen noticed that the Mountains were in labour; smoke came out of their summits, the earth was quaking at their feet, trees were crashing, and huge rocks were tumbling. They felt sure that something horrible was going to happen. They all gathered together in one place to see what terrible thing this could be. They waited and they waited, but nothing came. At last there was a still more violent earthquake, and a huge gap appeared in the side of the Mountains. They all fell down upon their knees and waited. At last, and at last, a teeny, tiny mouse poked its little head and bristles out of the gap and came running down towards them, and ever after they used to say:

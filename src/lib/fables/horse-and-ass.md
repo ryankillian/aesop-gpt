@@ -12,6 +12,16 @@ motifs:
     'Consequence of Misplaced Admiration',
     'Cost of Privilege'
   ]
+insights:
+  [
+    'Differences',
+    'Perspective',
+    'Irony',
+    'Acceptance',
+    'Cost',
+    'Revenge',
+    'Misjudgment'
+  ]
 ---
 
 A HORSE and an Ass were travelling together, the Horse prancing along in its fine trappings, the Ass carrying with difficulty the heavy weight in its panniers. “I wish I were you,” sighed the Ass; “nothing to do and well fed, and all that fine harness upon you.” Next day, however, there was a great battle, and the Horse was wounded to death in the final charge of the day. His friend, the Ass, happened to pass by shortly afterwards and found him on the point of death. “I was wrong,” said the Ass:

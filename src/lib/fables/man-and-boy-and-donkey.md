@@ -15,6 +15,15 @@ motifs:
     'Public Opinion and Decision-Making',
     'Balancing Consideration and Assertiveness'
   ]
+insights:
+  [
+    'Differences',
+    'Irony',
+    'Reality',
+    'Change',
+    'Decision-making',
+    'Behavior'
+  ]
 ---
 
 A MAN and his son were once going with their Donkey to market. As they were walking along by its side a countryman passed them and said: “You fools, what is a Donkey for but to ride upon?”

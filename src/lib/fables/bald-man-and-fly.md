@@ -16,6 +16,17 @@ motifs:
     'Reaction to Frustration',
     'Emotional Intelligence'
   ]
+insights:
+  [
+    'Differences',
+    'Acceptance',
+    'Resilience',
+    'Virtue',
+    'Reality',
+    'Wisdom',
+    'Perception',
+    'Adaptation'
+  ]
 ---
 
 THERE was once a Bald Man who sat down after work on a hot summer’s day. A Fly came up and kept buzzing about his bald pate, and stinging him from time to time. The Man aimed a blow at his little enemy, but—whack—his palm came on his head instead; again the Fly tormented him, but this time the Man was wiser and said:

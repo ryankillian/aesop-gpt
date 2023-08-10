@@ -13,6 +13,14 @@ motifs:
     'Perception of Death',
     'Resilience in Hardship'
   ]
+insights:
+  [
+    'Behavior',
+    'Revenge',
+    'Perception',
+    'Consequences',
+    'Adaptation'
+  ]
 ---
 
 AN OLD labourer, bent double with age and toil, was gathering sticks in a forest. At last he grew so tired and hopeless that he threw down the bundle of sticks, and cried out: “I cannot bear this life any longer. Ah, I wish Death would only come and take me!”

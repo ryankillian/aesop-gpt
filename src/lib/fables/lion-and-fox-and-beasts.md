@@ -13,6 +13,16 @@ motifs:
     'Critical Thinking',
     'The Predatory Nature of Power'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Perspective',
+    'Deception',
+    'Reality',
+    'Wisdom',
+    'Revenge',
+    'Consequences'
+  ]
 ---
 
 THE LION once gave out that he was sick unto death and summoned the animals to come and hear his last Will and Testament. So the Goat came to the Lion’s cave, and stopped there listening for a long time. Then a Sheep went in, and before she came out a Calf came up to receive the last wishes of the Lord of the Beasts. But soon the Lion seemed to recover, and came to the mouth of his cave, and saw the Fox, who had been waiting outside for some time. “Why do you not come to pay your respects to me?” said the Lion to the Fox.

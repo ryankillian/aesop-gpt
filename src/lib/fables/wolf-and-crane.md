@@ -17,6 +17,16 @@ motifs:
     'Ingratitude after Relief',
     'Shift in Power Dynamics'
   ]
+insights:
+  [
+    'Dichotomies',
+    'Differences',
+    'Acceptance',
+    'Gratification',
+    'Change',
+    'Misfortune',
+    'Virtue'
+  ]
 ---
 
 A WOLF had been gorging on an animal he had killed, when suddenly a small bone in the meat stuck in his throat and he could not swallow it. He soon felt terrible pain in his throat, and he ran up and down groaning and groaning and seeking for something to relieve the pain. He tried to induce every one he met to remove the bone. “I would give anything,” said he, “if you would take it out.” At last the Crane agreed to try, and told the Wolf to lie on his side and open his jaws as wide as he could. Then the Crane put its long neck down the Wolf’s throat, and with its beak loosened the bone, till at last got it out.

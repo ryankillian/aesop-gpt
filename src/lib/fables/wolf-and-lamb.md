@@ -17,6 +17,19 @@ motifs:
     'Resistance to Logic and Reason',
     'Victim Blaming'
   ]
+insights:
+  [
+    'Differences',
+    'Power',
+    'Perspective',
+    'Acceptance',
+    'Cost',
+    'Reality',
+    'Change',
+    'Fate',
+    'Behavior',
+    'Virtue'
+  ]
 ---
 
 ONCE upon a time a Wolf was lapping at a spring on a hillside when, looking up, what should he see but a Lamb just beginning to drink a little lower down. “There’s my supper,” thought he, “if only I can find some excuse to seize it.” Then he called out to the Lamb, “How dare you muddle the water from which I am drinking?”

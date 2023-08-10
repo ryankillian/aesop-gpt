@@ -15,6 +15,15 @@ motifs:
 'Miscommunication and Misunderstanding',
 'False Heroism'
 ]
+insights:
+  [
+    'Irony',
+    'Reality',
+    'Change',
+    'Fate',
+    'Perception',
+    'Misjudgment'
+  ]
 ---
 
 “OH Father,” said a little Frog to the big one sitting by the side of a pool, “I have seen such a terrible monster! It was as big as a mountain, with horns on its head, and a long tail, and it had hoofs divided in two.”

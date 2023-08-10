@@ -17,6 +17,17 @@ motifs:
     'Collective Behavior',
     'The Illusion of Safety'
   ]
+insights:
+  [
+    'Differences',
+    'Behavior',
+    'Revenge',
+    'Misfortune',
+    'Wisdom',
+    'Perception',
+    'Misjudgment',
+    'Adaptation'
+  ]
 ---
 
 THE HARES were so persecuted by the other beasts, they did not know where to go. As soon as they saw a single animal approach them, off they used to run. One day they saw a troop of wild Horses stampeding about, and in quite a panic all the Hares scuttled off to a lake hard by, determined to drown themselves rather than live in such a continual state of fear. But just as they got near the bank of the lake, a troop of Frogs, frightened in their turn by the approach of the Hares, scuttled off, and jumped into the water. “Truly,” said one of the Hares, “things are not so bad as they seem:
