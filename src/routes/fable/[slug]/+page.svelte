@@ -5,14 +5,12 @@
 
 <svelte:head>
 	<title>{metadata.title} - Aesop's Fables</title>
-	<meta property="og:title" content={metadata.title} />
 	<meta name="description" content="Analysis of the fable: {metadata.title}" />
-	<meta name="keywords" content="Aesop, Fables, {metadata.title}, {metadata.motifs.join(', ')}" />
 </svelte:head>
 
 <article>
 	<header>
-		<h1>{metadata.title}</h1>
+		<h2>{metadata.title}</h2>
 	</header>
 	<section>
 		<svelte:component this={content} />

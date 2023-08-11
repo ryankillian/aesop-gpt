@@ -1,7 +1,14 @@
 <script lang="ts">
+	import { charactersTitle, seoDescription } from '$lib/config.js';
+
 	export let data;
 	let { characters } = data;
 </script>
+
+<svelte:head>
+	<title>{charactersTitle}</title>
+	<meta name="description" content={seoDescription} />
+</svelte:head>
 
 {#if characters.length}
 	<div class="items">

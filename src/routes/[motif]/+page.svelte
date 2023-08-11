@@ -1,8 +1,15 @@
 <script lang="ts">
+	import { seoDescription } from '$lib/config.js';
+
 	export let data;
 
 	let { fablesByMotif } = data;
 </script>
+
+<svelte:head>
+	<title>{data.motif}</title>
+	<meta name="description" content="List of Aesop's Fables which includes {data.motif} theme" />
+</svelte:head>
 
 <h2>{data.motif}</h2>
 

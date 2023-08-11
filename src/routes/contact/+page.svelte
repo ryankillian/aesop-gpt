@@ -22,6 +22,11 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Contact Form - Aesop's Fables</title>
+	<meta name="description" content="Contact Form - Aesop's Fables" />
+</svelte:head>
+
 <h1>Contact Page</h1>
 {#if formResponse.success}
 	<h2 class="success">Message has been received. Thank you!!</h2>

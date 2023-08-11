@@ -13,7 +13,7 @@ const config = {
 	extensions: ['.svelte', '.md'],
 
 	kit: {
-		adapter: adapter({ fallback: '404.html' })
+		adapter: adapter()
 	}
 };
 

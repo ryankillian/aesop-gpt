@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>About - Aesop's Fables</title>
+	<meta name="description" content="Information page for Aesop's Fables website" />
+</svelte:head>
+
 <h1>About This Site</h1>
 
 <article>

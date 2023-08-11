@@ -1,6 +1,12 @@
 <script lang="ts">
+	import { moralsTitle, seoDescription } from '$lib/config.js';
 	export let data;
 </script>
+
+<svelte:head>
+	<title>{moralsTitle}</title>
+	<meta name="description" content={seoDescription} />
+</svelte:head>
 
 <h1>Morals</h1>
 
