@@ -27,6 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@picocss/pico": "^1.5.10"
+		"@picocss/pico": "^1.5.10",
+		"@vercel/analytics": "^1.0.2"
 	}
 }
