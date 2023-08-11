@@ -93,9 +93,7 @@ Easily integrate a contact form into your static site in just a few minutes. Fol
 To deploy to Vercel:
 
 - In `Project Settings`, change `output folder` in `Build and Output Settings` from `public` to `build`.
-- The site is continuously deployed on [Vercel](https://aesops-insights.vercel.app/).
-
-Certainly! Here's a section you can add to your `README.md` to inform users or developers about the integration of Vercel Web Analytics and Google Search Console in your site:
+- The site is continuously deployed on [Vercel](https://aesops-insights.vercel.app/)
 
 ## Analytics & Search Console Integration
 
