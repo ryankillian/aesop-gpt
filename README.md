@@ -41,15 +41,40 @@ This repository contains a collection of Aesop's fables, enhanced with analytica
 
 ### Adding a Sitemap
 
-1. Add a `robots.txt` file in the `/static` directory with the content:
+To integrate a sitemap into your project, follow the steps below:
 
-```
-User-agent: *
-Sitemap: https://aesops-insights.vercel.app/sitemap.xml
-Disallow:
-```
+1. **Setup `robots.txt`**:
 
-2. To generate a sitemap, use [svelte-sitemap](https://www.npmjs.com/package/svelte-sitemap). Follow the instructions provided in the original content. When the project is built this places a sitemap.xml in the root folder.
+   - Create a `robots.txt` file in the `/static` directory.
+   - Add the following content:
+     ```plaintext
+     User-agent: *
+     Sitemap: https://aesops-insights.vercel.app/sitemap.xml
+     Disallow:
+     ```
+
+2. **Generate the Sitemap**:
+
+   - Install and use [svelte-sitemap](https://www.npmjs.com/package/svelte-sitemap) to generate a sitemap.
+   - After setting it up, run:
+     ```bash
+     npm run build
+     ```
+   - This command will place a `sitemap.xml` in the `./build` folder.
+
+3. **Cleanup**:
+
+   - Remove the `svelte-sitemap` package:
+     ```bash
+     npm uninstall svelte-sitemap
+     ```
+
+4. **Integrate the Sitemap**:
+
+   - Move the contents of `./build/sitemap.xml` to the place where it fits in `/routes/sitemap.xml/+server.ts`.
+
+5. **Note**:
+   - You might encounter issues with the sitemap displaying as "Content Type: html" after running `npm run build` and `npm run preview`. However, it should work correctly once deployed to production.
 
 ### Adding a Contact Form
 
